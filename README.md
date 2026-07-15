@@ -10,22 +10,12 @@ Aspiring Project Manager | BSc IT Undergraduate | AI & Technology Enthusiast
 
 🎓 Final-year BSc (Hons) Information Technology Undergraduate at Rajarata University of Sri Lanka
 
-📌 Aspiring Project Manager with a passion for Agile, Scrum, and technology-driven solutions
+📌 Aspiring Project Manager passionate about Agile, Scrum, and delivering technology-driven solutions
 
-📚 Continuously learning Project Management, AI, Cloud Technologies, and Software Engineering
+🤝 Passionate about leadership, collaboration, strategic planning, and continuous improvement
 
-🎯 Career Goal: Become a Project Manager leading innovative technology products
+🎯 Career Goal: To lead innovative software projects that create meaningful impact through technology
 
----
-
-## 🚀 Currently Learning
-
-- Project Management Fundamentals
-- Agile & Scrum
-- Jira
-- Microsoft Project
-- AI for Project Managers
-- Leadership & Team Management
 
 ---
 
@@ -33,52 +23,20 @@ Aspiring Project Manager | BSc IT Undergraduate | AI & Technology Enthusiast
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mysql,C,C++,anoconda,git,github,vscode,figma&perline=7"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,nodejs,mysql,git,github,vscode,figma&perline=7"/>
 
 </p>
 
 ---
 
-## 📂 Featured Projects
-
-### 🧠 StellarX
-
-AI-powered Point-of-Care System for Tinea Diagnosis
-
-- Computer Vision
-- Deep Learning
-- Healthcare AI
-- Project Leadership
-
----
-
-### 📱 Study Break Timer App
-
-Android application built using Flutter
-
-Features
-
-- Study Timer
-- Task Management
-- Progress Tracking
-
----
-
-### 🌐 Personal Portfolio
-
-A modern interactive portfolio built with Next.js and Framer Motion
-
-Coming Soon...
-
----
 
 ## 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SANDULFERNANDO&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDULFERNANDO&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -88,7 +46,7 @@ Coming Soon...
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SANDULFERNANDO&theme=tokyonight"/>
 
 </p>
 
@@ -112,7 +70,7 @@ Coming Soon...
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sandulfernando.pm@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -124,6 +82,12 @@ Coming Soon...
 
 ---
 
-## 💡 Quote
+## 💡 Personal Motto
 
-> *"Think. Plan. Execute."*
+<div align="center">
+
+> **"Think with clarity. Plan with purpose. Lead with integrity. Deliver with excellence."**
+
+*"Great projects are not built by individuals alone. They are achieved through vision, collaboration, continuous learning, and the determination to turn ideas into meaningful solutions."*
+
+</div>
