@@ -12,13 +12,9 @@ Aspiring Project Manager | BSc IT Undergraduate | AI & Technology Enthusiast
 
 📌 Aspiring Project Manager with a passion for Agile, Scrum, and technology-driven solutions
 
-🤖 Currently leading an AI-powered healthcare research project (StellarX)
-
 📚 Continuously learning Project Management, AI, Cloud Technologies, and Software Engineering
 
 🎯 Career Goal: Become a Project Manager leading innovative technology products
-
-🌐 Portfolio (Coming Soon): https://sandul.me
 
 ---
 
@@ -37,7 +33,7 @@ Aspiring Project Manager | BSc IT Undergraduate | AI & Technology Enthusiast
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mysql,firebase,flutter,git,github,vscode,figma&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mysql,C,C++,anoconda,git,github,vscode,figma&perline=7"/>
 
 </p>
 
