@@ -8,7 +8,7 @@ Aspiring Project Manager | BSc IT Undergraduate | AI & Technology Enthusiast
 
 ## 👨‍💻 About Me
 
-🎓 Final-year BSc (Hons) Information Technology Undergraduate at Rajarata University of Sri Lanka
+🎓 Final-year BSc Information Technology Undergraduate at Rajarata University of Sri Lanka
 
 📌 Aspiring Project Manager passionate about Agile, Scrum, and delivering technology-driven solutions
 
@@ -81,8 +81,6 @@ Aspiring Project Manager | BSc IT Undergraduate | AI & Technology Enthusiast
 </p>
 
 ---
-
-## 💡 Personal Motto
 
 <div align="center">
 
